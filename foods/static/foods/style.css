@@ -1,0 +1,12 @@
+body {
+  background-image: url("images/picture2.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin-right: 600px;
+  background-attachment: fixed;
+}
+li a {
+    color: DarkBlue;
+    text-align: left;
+    font-size: large;
+}
